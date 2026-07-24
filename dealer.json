@@ -5,7 +5,8 @@
     "phone": "(281) 915-6075",
     "email": null,
     "country": "USA",
-    "premium": false
+    "premium": false,
+    "title": "2014 DEERE 410E"
   },
   {
     "dealer": "Adcock Equipment USA Inc.",
@@ -13,7 +14,8 @@
     "phone": "(817) 935-8963",
     "email": "sales@adcock.ca",
     "country": "USA",
-    "premium": false
+    "premium": false,
+    "title": "2026 JLG 1255"
   },
   {
     "dealer": "Iron Bound Auctions",
@@ -21,7 +23,8 @@
     "phone": "(432) 209-5112",
     "email": null,
     "country": "USA",
-    "premium": false
+    "premium": false,
+    "title": "MAGNUM MLT6S"
   },
   {
     "dealer": "American State Equipment Co., Inc.",
@@ -29,7 +32,8 @@
     "phone": "(414) 930-7427",
     "email": null,
     "country": "USA",
-    "premium": false
+    "premium": false,
+    "title": "2022 JLG 1255"
   },
   {
     "dealer": "nathan brown",
@@ -37,7 +41,8 @@
     "phone": "(307) 285-9116",
     "email": null,
     "country": "USA",
-    "premium": false
+    "premium": false,
+    "title": "1993 PETERBILT 379"
   },
   {
     "dealer": "On Track Equipment",
@@ -45,7 +50,8 @@
     "phone": "(817) 854-7629",
     "email": null,
     "country": "USA",
-    "premium": false
+    "premium": false,
+    "title": "2024 JLG G5-18A"
   },
   {
     "dealer": "Hill-T Farm Tractor Parts",
@@ -53,7 +59,8 @@
     "phone": "(937) 358-7162",
     "email": "htparts@swohio.twcbc.com",
     "country": "USA",
-    "premium": false
+    "premium": false,
+    "title": "2007 JOHN DEERE 9220"
   },
   {
     "dealer": "Jerry Redwine",
@@ -61,7 +68,8 @@
     "phone": "(409) 207-0206",
     "email": null,
     "country": "USA",
-    "premium": false
+    "premium": false,
+    "title": "2015 PETERBILT 388"
   },
   {
     "dealer": "Vermeer Canada Inc",
@@ -69,7 +77,8 @@
     "phone": "(888) 392-6055",
     "email": null,
     "country": "USA",
-    "premium": false
+    "premium": false,
+    "title": "2007 VERMEER HG200"
   },
   {
     "dealer": "RUSH TRUCK CENTERS - Indianapolis, IN",
@@ -77,7 +86,8 @@
     "phone": "(317) 593-7010",
     "email": null,
     "country": "USA",
-    "premium": false
+    "premium": false,
+    "title": "2025 INTERNATIONAL HX"
   },
   {
     "dealer": "Gooseneck Implement",
@@ -85,7 +95,8 @@
     "phone": "(701) 394-4312",
     "email": "support@gooseneckimp.com",
     "country": "USA",
-    "premium": false
+    "premium": false,
+    "title": "2018 JOHN DEERE 9620R"
   },
   {
     "dealer": "Heritage Tractor",
@@ -93,7 +104,8 @@
     "phone": "(417) 708-4283",
     "email": null,
     "country": "USA",
-    "premium": false
+    "premium": false,
+    "title": "2018 JOHN DEERE 9620RX"
   },
   {
     "dealer": "Hampton Equipment LLC",
@@ -101,7 +113,8 @@
     "phone": "(260) 638-5032",
     "email": "joe@hamptonequipmentllc.com",
     "country": "USA",
-    "premium": true
+    "premium": true,
+    "title": "2026 EARTHWORM CONVEYORS 30X100"
   },
   {
     "dealer": "ReadyDig",
@@ -109,7 +122,8 @@
     "phone": "(720) 571-6036",
     "email": "sales@readydig.com",
     "country": "USA",
-    "premium": false
+    "premium": false,
+    "title": "2024 YANMAR TL100VS"
   },
   {
     "dealer": "Quality Used Equipment",
@@ -117,7 +131,8 @@
     "phone": "(814) 305-7553",
     "email": "seth@quesalesinc.com",
     "country": "USA",
-    "premium": false
+    "premium": false,
+    "title": "2022 KUBOTA SVL97-2"
   },
   {
     "dealer": "Greg Tucker",
@@ -125,7 +140,8 @@
     "phone": "(443) 345-8226",
     "email": null,
     "country": "USA",
-    "premium": false
+    "premium": false,
+    "title": "2015 TADANO MANTIS GTC 1200"
   },
   {
     "dealer": "Crushing Equipment Solutions",
@@ -133,6 +149,7 @@
     "phone": "(940) 343-5370",
     "email": null,
     "country": "USA",
-    "premium": false
+    "premium": false,
+    "title": "2022 MASABA 36X60 PRS"
   }
 ]
