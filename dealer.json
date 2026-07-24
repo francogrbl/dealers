@@ -1,0 +1,138 @@
+[
+  {
+    "dealer": "Mico Cranes & Equipment, Texas LLC",
+    "location": "Houston, Texas",
+    "phone": "(281) 915-6075",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "dealer": "Adcock Equipment USA Inc.",
+    "location": "Fort Worth, Texas",
+    "phone": "(817) 935-8963",
+    "email": "sales@adcock.ca",
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "dealer": "Iron Bound Auctions",
+    "location": "Seminole, Texas",
+    "phone": "(432) 209-5112",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "dealer": "American State Equipment Co., Inc.",
+    "location": "Milwaukee, Wisconsin",
+    "phone": "(414) 930-7427",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "dealer": "nathan brown",
+    "location": "Wilson, Wyoming",
+    "phone": "(307) 285-9116",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "dealer": "On Track Equipment",
+    "location": "Weatherford, Texas",
+    "phone": "(817) 854-7629",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "dealer": "Hill-T Farm Tractor Parts",
+    "location": "New Madison, Ohio",
+    "phone": "(937) 358-7162",
+    "email": "htparts@swohio.twcbc.com",
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "dealer": "Jerry Redwine",
+    "location": "Nederland, Texas",
+    "phone": "(409) 207-0206",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "dealer": "Vermeer Canada Inc",
+    "location": "Laval, Quebec, Canada",
+    "phone": "(888) 392-6055",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "dealer": "RUSH TRUCK CENTERS - Indianapolis, IN",
+    "location": "Indianapolis, Indiana",
+    "phone": "(317) 593-7010",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "dealer": "Gooseneck Implement",
+    "location": "Velva, North Dakota",
+    "phone": "(701) 394-4312",
+    "email": "support@gooseneckimp.com",
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "dealer": "Heritage Tractor",
+    "location": "Pittsburg, Kansas",
+    "phone": "(417) 708-4283",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "dealer": "Hampton Equipment LLC",
+    "location": "Fort Wayne, Indiana",
+    "phone": "(260) 638-5032",
+    "email": "joe@hamptonequipmentllc.com",
+    "country": "USA",
+    "premium": true
+  },
+  {
+    "dealer": "ReadyDig",
+    "location": "Hudson, Colorado",
+    "phone": "(720) 571-6036",
+    "email": "sales@readydig.com",
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "dealer": "Quality Used Equipment",
+    "location": "Roaring Spring, Pennsylvania",
+    "phone": "(814) 305-7553",
+    "email": "seth@quesalesinc.com",
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "dealer": "Greg Tucker",
+    "location": "Salisbury, Maryland",
+    "phone": "(443) 345-8226",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "dealer": "Crushing Equipment Solutions",
+    "location": "Paradise, Texas",
+    "phone": "(940) 343-5370",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  }
+]
