@@ -151,5 +151,86 @@
     "country": "USA",
     "premium": false,
     "title": "2022 MASABA 36X60 PRS"
+  },
+  {
+    "title": "1993 KOMATSU D275A-2",
+    "dealer": "Pacific Cranes and Equipment Sales",
+    "location": "Pikeville, Kentucky",
+    "phone": "(818) 875-6030",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "title": "2010 CATERPILLAR D11T (Remanufactured 2024)",
+    "dealer": "Evans Equipment Inc.",
+    "location": "Concordia, Missouri",
+    "phone": "(660) 839-6017",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "title": "2015 CATERPILLAR 336FL",
+    "dealer": "Kevin",
+    "location": "Marlborough, Massachusetts",
+    "phone": "(774) 209-2471",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "title": "2023 CATERPILLAR D6 LGP",
+    "dealer": "Foley Equipment Company",
+    "location": "Wichita, Kansas",
+    "phone": "(316) 226-7133",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "title": "2014 CATERPILLAR D6T",
+    "dealer": "Fabick Cat",
+    "location": "De Pere, Wisconsin",
+    "phone": "(636) 384-4021",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "title": "2023 BOBCAT T76",
+    "dealer": "Bobcat of Spartanburg",
+    "location": "Spartanburg, South Carolina",
+    "phone": "(636) 384-4031",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "title": "2021 BOBCAT T76",
+    "dealer": "Bobcat of Columbia",
+    "location": "Columbia, Missouri",
+    "phone": "(636) 384-4031",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "title": "2018 CATERPILLAR D11T (Remanufactured 2025)",
+    "dealer": "JJ SCHECKEL HEAVY EQUIPMENT CO",
+    "location": "Bellevue, Iowa",
+    "phone": "(563) 231-4234",
+    "email": null,
+    "country": "USA",
+    "premium": false
+  },
+  {
+    "title": "1990 CATERPILLAR D5H TSK II",
+    "dealer": "Shane Co",
+    "location": "Redding, California",
+    "phone": "(530) 427-0008",
+    "email": null,
+    "country": "USA",
+    "premium": false
   }
 ]
